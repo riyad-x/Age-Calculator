@@ -1,23 +1,19 @@
-🎂 Age Calculator
-Welcome to the Age Calculator! This simple yet handy tool helps you quickly calculate your age in years, months, and days. 🗓️
+# 🎂 Age Calculator
 
-🌐 Live Demo: Check it out here!
+Welcome to the **Age Calculator**! This simple yet handy tool helps you quickly calculate your age in years, months, and days. 🗓️
 
-📋 Features
-Calculate your exact age in years, months, and days.
-User-friendly and intuitive interface.
-Quick results with a responsive design for all devices.
-🚀 How to Use
-Enter your birth date.
-Click the calculate button.
-View your age in years, months, and days!
-📸 Preview
+## 🚀 Live Demo
 
-(Replace with a link to an actual screenshot if available)
+Check out the live version of the app here: [Age Calculator](https://riyad-x.github.io/Age-Calculator/)
 
-🛠️ Technologies Used
-HTML
-CSS
-JavaScript
-🌟 Feedback and Contributions
-Feel free to reach out with suggestions or contributions! Your feedback helps improve this project. 💬
+## 📋 Features
+
+- Calculate your exact age in years, months, and days.
+- User-friendly and intuitive interface.
+- Quick results with a responsive design for all devices.
+
+## 🔧 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riyad-x/Age-Calculator.git
